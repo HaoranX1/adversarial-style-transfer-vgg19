@@ -1,5 +1,0 @@
-content=data\content\n03930630_pickup.JPEG
-style=data\style\fire_tar16.png
-target=498 cinema
-step=1 total=1227.232544 adv=12.118505 style=0.000308 content=0.000000 tv=0.065144 pred=pickup target_prob=0.000005
-early_stop step=5 target_prob=0.928296

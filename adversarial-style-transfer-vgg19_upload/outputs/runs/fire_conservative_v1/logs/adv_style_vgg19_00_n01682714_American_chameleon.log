@@ -1,5 +1,0 @@
-content=data\content\n01682714_American_chameleon.JPEG
-style=data\style\fire_tar16.png
-target=498 cinema
-step=1 total=3509.926025 adv=35.017292 style=0.000164 content=0.000000 tv=0.063667 pred=American chameleon target_prob=0.000000
-early_stop step=8 target_prob=0.899412

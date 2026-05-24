@@ -1,5 +1,0 @@
-content=data\content\n04033901_quill.JPEG
-style=data\style\fire_tar16.png
-target=498 cinema
-step=1 total=2385.596436 adv=23.775236 style=0.000161 content=0.000000 tv=0.031024 pred=quill target_prob=0.000000
-early_stop step=3 target_prob=0.973943

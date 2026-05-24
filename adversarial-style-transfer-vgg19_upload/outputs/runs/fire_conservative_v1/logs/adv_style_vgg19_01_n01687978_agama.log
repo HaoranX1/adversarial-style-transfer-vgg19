@@ -1,5 +1,0 @@
-content=data\content\n01687978_agama.JPEG
-style=data\style\fire_tar16.png
-target=498 cinema
-step=1 total=2581.252441 adv=25.735386 style=0.000154 content=0.000000 tv=0.047054 pred=agama target_prob=0.000000
-early_stop step=5 target_prob=0.903875

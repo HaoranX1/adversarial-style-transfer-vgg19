@@ -1,5 +1,0 @@
-content=data\content\zip_t-shirt2.jpg
-style=data\style\fire_tar16.png
-target=498 cinema
-step=1 total=1932.713379 adv=19.240662 style=0.000173 content=0.000000 tv=0.019973 pred=abaya target_prob=0.000000
-early_stop step=6 target_prob=0.956244

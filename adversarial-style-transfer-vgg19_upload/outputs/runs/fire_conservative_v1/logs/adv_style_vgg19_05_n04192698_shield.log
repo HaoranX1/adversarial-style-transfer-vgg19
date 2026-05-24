@@ -1,5 +1,0 @@
-content=data\content\n04192698_shield.JPEG
-style=data\style\fire_tar16.png
-target=498 cinema
-step=1 total=1312.751953 adv=13.031073 style=0.000193 content=0.000000 tv=0.059297 pred=shield target_prob=0.000002
-early_stop step=4 target_prob=0.826938

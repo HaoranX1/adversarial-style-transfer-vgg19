@@ -219,6 +219,16 @@ This creates:
 outputs/runs/<run_name>/submission.zip
 ```
 
-## Notes
+# Adversarial Style Transfer Attack on VGG19
 
-This README does not assume a fixed attack success rate. Actual results should be reported from `results.csv` and `eval/result.txt`.
+This project implements a PyTorch-based adversarial example generation method that combines neural style transfer with targeted adversarial optimization. Given a content image and a style reference image, the method directly optimizes the input image pixels while keeping the pretrained VGG19 classifier fixed. The generated image preserves the original visual content, adopts a natural style texture, and is misclassified by VGG19 as the target class **"movie theater, cinema"**.
+
+## Demo
+
+The following examples show the generated adversarial images. Each visualization contains the original content image, the style reference image, and the optimized adversarial image with the final VGG19 prediction.
+
+![Demo Result 1](outputs/runs/fire_conservative_v1/figures/adv_style_vgg19_08_zip_stop-sign.png)
+
+![Demo Result 2](outputs/runs/fire_conservative_v1/figures/adv_style_vgg19_03_n03930630_pickup.png)
+
+![Demo Result 3](outputs/runs/fire_conservative_v1/figures/adv_style_vgg19_07_zip_off-target5.png)

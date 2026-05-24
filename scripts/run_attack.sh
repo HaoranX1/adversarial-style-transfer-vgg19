@@ -1,0 +1,1 @@
+python train.py --content_dir data/content --style_dir data/style --out_dir outputs --num_images 10 --steps 1000 --target_name cinema --lambda_adv 100 --style_weight 200000 --content_weight 10 --tv_weight 0.0001 --lr 0.03 --make_zip

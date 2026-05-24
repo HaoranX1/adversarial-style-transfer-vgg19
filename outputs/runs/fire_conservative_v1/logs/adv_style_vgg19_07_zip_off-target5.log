@@ -1,0 +1,5 @@
+content=data\content\zip_off-target5.jpg
+style=data\style\fire_tar16.png
+target=498 cinema
+step=1 total=2488.640381 adv=24.472149 style=0.000829 content=0.000000 tv=0.093195 pred=Blenheim spaniel target_prob=0.000000
+early_stop step=9 target_prob=0.814905

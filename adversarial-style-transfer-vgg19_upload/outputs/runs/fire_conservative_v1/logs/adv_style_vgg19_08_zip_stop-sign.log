@@ -1,0 +1,5 @@
+content=data\content\zip_stop-sign.jpg
+style=data\style\fire_tar16.png
+target=498 cinema
+step=1 total=1068.110840 adv=9.891998 style=0.001578 content=0.000000 tv=0.031696 pred=binder target_prob=0.000051
+early_stop step=4 target_prob=0.963545

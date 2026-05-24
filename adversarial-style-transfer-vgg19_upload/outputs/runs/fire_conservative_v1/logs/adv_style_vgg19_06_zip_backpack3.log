@@ -1,0 +1,5 @@
+content=data\content\zip_backpack3.jpg
+style=data\style\fire_tar16.png
+target=498 cinema
+step=1 total=1498.640015 adv=14.908965 style=0.000155 content=0.000000 tv=0.022087 pred=mailbag target_prob=0.000000
+early_stop step=5 target_prob=0.922953

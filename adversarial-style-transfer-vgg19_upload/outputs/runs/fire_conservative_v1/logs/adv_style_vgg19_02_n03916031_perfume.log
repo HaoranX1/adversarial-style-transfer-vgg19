@@ -1,0 +1,5 @@
+content=data\content\n03916031_perfume.JPEG
+style=data\style\fire_tar16.png
+target=498 cinema
+step=1 total=1871.024414 adv=18.608723 style=0.000203 content=0.000000 tv=0.034258 pred=perfume target_prob=0.000000
+early_stop step=4 target_prob=0.961873
